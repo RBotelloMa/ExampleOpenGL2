@@ -1,0 +1,22 @@
+<mesh>
+	<submeshes>
+		<submesh>
+			<texture>Happy.png</texture>
+			<indices>0,2,3,3,1,2</indices>
+			<coords>-0.5,0.5,0,-1.5,-0.5,0,-0.5,-0.5,0,-1.5,0.5,0</coords>
+			<texcoords>1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0</texcoords>
+		</submesh>
+		<submesh>
+			<texture>Sad.png</texture>
+			<indices>0,2,3,3,1,2</indices>
+			<coords>1.5,0.5,0,0.5,-0.5,0,1.5,-0.5,0,0.5,0.5,0</coords>
+			<texcoords>1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0</texcoords>
+		</submesh>
+		<submesh>
+			<texture>Sad.png</texture>
+			<indices>0,2,3,3,1,2</indices>
+			<coords>0.5,0.5,0,-0.5,-0.5,0,0.5,-0.5,0,-0.5,0.5,0</coords>
+			<texcoords>1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0</texcoords>
+		</submesh>
+	</submeshes>
+</mesh>
