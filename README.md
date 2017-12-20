@@ -1,4 +1,4 @@
-# OpenGL-Shaders_Prectice
+# OpenGL-Shaders-Practice
 Little Master's Practice to test some GLSL shaders in OpenGL
 
 The program consist in an OpenGL pipeline that reads and XML file with meshes and texture information and represent it.
